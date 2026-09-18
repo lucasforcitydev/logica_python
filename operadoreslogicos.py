@@ -1,17 +1,4 @@
-"""Exercício: Sistema de Acesso a uma Festa
 
-      Descrição:
-Você vai criar um programa que determina se uma pessoa pode entrar em uma festa com base em algumas regras:
-Pergunte ao usuário:
-Idade (número inteiro)
-Está acompanhado de um responsável? (sim/não)
-Tem convite? (sim/não)
-         As regras de entrada são:
-A pessoa entra se tiver convite, ou se for maior de 18 anos.
-Menores de 18 só entram se estiverem acompanhados de um responsável e tiverem convite.
-Pessoas sem convite e menores de 18 não entram.
-         O programa deve imprimir:
-"Pode entrar" ou "Não pode entrar"""
 
 
 idade = int(input("Digite a idade: "))

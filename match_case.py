@@ -12,3 +12,4 @@ def menu(numero):
             print("ERRO")
 
 menu(numero)
+### teste do teste
