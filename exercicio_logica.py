@@ -1,12 +1,4 @@
-# Exercício: Jogo de Adivinhação de Número
-   #Descrição:
-# Você vai criar um programa que:
-# O computador escolhe um número aleatório entre 1 e 50.
-# O usuário tenta adivinhar esse número.
-# A cada tentativa, o programa deve informar se o palpite é maior ou menor que o número escolhido.
-# O jogo continua até o usuário acertar o número.
-# No final, o programa mostra:
-# Quantas tentativas o usuário levou para acertar.
+
 
 
 
